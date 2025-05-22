@@ -9,7 +9,7 @@
 ### 🌱 Currently Learning
 - Working through **The Odin Project**
 - Focused on **front-end development** right now  
-- Soon diving into **React** and **Node.js**
+- Soon diving into **application development** and **back-end development**
 
 ---
 
@@ -31,8 +31,3 @@
 - 🏟️ Always down to talk sports
 
 ---
-
-<!-- GitHub stats (optional) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobotero&show_icons=true&theme=tokyonight" />
-</p>
