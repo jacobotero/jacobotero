@@ -2,7 +2,7 @@
 
 📍 Based in DFW | 🎓 CS Student @ The University of Alabama  
 💼 Currently a Co-Op at Mercedes-Benz  
-🛠️ Learning to build the web, one line of code at a time
+🛠️ Learning full-stack development for websites and applications
 
 ---
 
