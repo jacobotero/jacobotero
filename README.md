@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Jacob Otero
 
 📍 Based in DFW | 🎓 CS Student @ The University of Alabama  
-💼 Currently a co-op at Mercedes-Benz  
+💼 Currently a Co-Op at Mercedes-Benz  
 🛠️ Learning to build the web, one line of code at a time
 
 ---
