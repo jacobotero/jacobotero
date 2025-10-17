@@ -6,12 +6,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- Focused on **front-end development** right now  
-- Soon diving into **application development** and **back-end development**
-
----
-
 ### 💻 Tech Stack
 - Languages: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
 - Exploring: `React`, `Node.js`, `Flask`, `MongoDB`
