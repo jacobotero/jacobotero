@@ -7,7 +7,6 @@
 ---
 
 ### 🌱 Currently Learning
-- Working through **The Odin Project**
 - Focused on **front-end development** right now  
 - Soon diving into **application development** and **back-end development**
 
