@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack
-- Languages: `C++`, `Python`, `HTML`, `CSS`, `JavaScript`
+- Languages: `C++`, `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
 - Exploring: `React`, `Node.js`, `Flask`, `MongoDB`
 
 ---
