@@ -1,26 +1,55 @@
-# 👋 Hey, I'm Jacob Otero
+# 👋 Hey, I'm Jacob Otero  
 
-📍 Based in DFW | 🎓 CS Student @ The University of Alabama  
-💼 Currently a Co-Op at Mercedes-Benz  
-🛠️ Learning full-stack development for websites and applications
-
----
-
-### 💻 Tech Stack
-- Languages: `C++`, `Python`, `Java`, `HTML`, `CSS`, `JavaScript`
-- Exploring: `React`, `Node.js`, `Flask`, `MongoDB`
+🎓 Computer Science Student @ The University of Alabama  
+💼 Co-Op Engineer @ Mercedes-Benz  
+📍 Based in DFW  
 
 ---
 
-### 📫 Connect with Me
-- Email: [jacobotero0313@gmail.com](mailto:jacobotero0313@gmail.com)
-- LinkedIn: [linkedin.com/in/jacob-otero](https://www.linkedin.com/in/jacob-otero)
+## 🚀 About Me  
+I’m a software engineer focused on building **AI-driven systems, scalable backend infrastructure, and production-ready applications**.  
+
+I enjoy solving complex problems involving **data, distributed systems, and machine learning**, and I’m especially interested in how AI can be applied to real-world products.  
+
+Currently, I’m developing applications that combine **backend engineering with intelligent systems**, with a focus on performance, reliability, and scalability.  
 
 ---
 
-### ⚡ A Bit About Me
-- 🏀 I love playing basketball
-- 🚗 Huge fan of cars
-- 🏟️ Always down to talk sports
+## 🤖 AI / Data Engineering  
+- Designing systems that integrate **machine learning models into real applications**  
+- Working with **data pipelines, preprocessing, and feature engineering**  
+- Building workflows for **model inference and evaluation**  
+- Experience applying **LLMs for analysis, automation, and decision support**  
+- Interested in **ML systems, data infrastructure, and large-scale AI applications**  
 
 ---
+
+## 🛠️ Technical Skills  
+
+### Languages  
+`Python` `C++` `Java` `JavaScript` `TypeScript`  
+
+### AI / Data  
+`Machine Learning` `Data Structures & Algorithms` `Statistical Analysis` `Data Processing`  
+
+### Backend & Systems  
+`Node.js` `Flask` `REST APIs` `System Design`  
+
+### Web Development  
+`React` `Next.js`  
+
+### Databases & Tools  
+`PostgreSQL` `MongoDB` `Supabase` `Git`  
+
+---
+
+## 🎯 Career Focus  
+- Software Engineering / AI Integration  
+- Building **high-performance, scalable applications**  
+- Applying **AI to solve real-world problems at scale**  
+
+---
+
+## 📫 Connect with Me  
+📧 Email: [jacobotero0313@gmail.com](mailto:jacobotero0313@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/jacob-otero](https://www.linkedin.com/in/jacob-otero)  
